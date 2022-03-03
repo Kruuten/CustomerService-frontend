@@ -1,7 +1,7 @@
 # Frontend part of CustomerService APP
 
-###Instrucion to install:
-####1. Clone project. From command line:
+### Instrucion to install:
+#### 1. Clone project. From command line:
    $ git clone https://github.com/Kruuten/CustomerService-frontend
 
 #### 3. Deploy project with Docker (should be installed): ####
